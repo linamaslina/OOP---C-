@@ -1,4 +1,4 @@
-# OOP---C-
+# OOP-in-C-plus-plus
 Some of the code I've written while taking the course OOP in C++
 These are the links to the exercises.
 
